@@ -27,10 +27,7 @@
     "react-dom": "^16.13.1",
     "webpack": "^4.43.0"
   },
-  babel:{
-    "presets":[
-      "es2015",
-      "react"
-    ]
+  "devDependencies": {
+    "webpack-cli": "^3.3.12"
   }
 }
